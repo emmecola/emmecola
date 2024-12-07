@@ -8,7 +8,7 @@ I usually code in Python, sometimes in R. For the web development part, I mostly
 
 I use GitHub for my personal projects.
 
-If you want to reach out, you can find me on [Mastodon](https://mastodon.uno/@emmecola) and [Bluesky]([https://mastodon.uno/@emmecola](https://bsky.app/profile/emmecola.bsky.social)).
+If you want to reach out, you can find me on [Mastodon](https://mastodon.uno/@emmecola) and [Bluesky]([https://mastodon.uno/@emmecola](https://bsky.app/profile/emmecola.bsky.social).
 
 
 <!---
