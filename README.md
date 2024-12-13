@@ -1,17 +1,15 @@
 Hi, I am Moreno Colaiacovo.
 
-I am a bioinformatician with expertise in NGS data analysis.
+I am a bioinformatician with expertise in NGSHi, I am Moreno Colaiacovo.
 
-I am currently working as an external IT consultant at the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) in Ispra, Italy. Here I provide bioinformatics support to the activities of the [EURL GMFF](https://gmo-crl.jrc.ec.europa.eu/), performing bioinformatics analyses, maintaining the current website and bioinformatics infrastructure and developing web applications.
+I am a bioinformatician with expertise in NGS data analysis. I am currently working as an IT consultant at the [Joint Research Centre](https://joint-research-centre.ec.europa.eu/index_en) in Ispra, Italy. Here I provide bioinformatics support to the activities of the European Reference Laboratory for Genetically Modified Food and Feed ([EURL GMFF](https://gmo-crl.jrc.ec.europa.eu/)), performing bioinformatics analyses, maintaining the current website and bioinformatics infrastructure and developing web applications.
 
-I usually code in Python, sometimes in R. For the web development part, I mostly use Ruby on Rails and Symfony PHP frameworks. As for the databases, I love PostgreSQL!
+I like science and science communication.
 
-I use GitHub for my personal projects.
+You can find me here:
 
-If you want to reach out, you can find me on [Mastodon](https://mastodon.uno/@emmecola) and [Bluesky](https://bsky.app/profile/emmecola.bsky.social).
-
-
-<!---
-emmecola/emmecola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colaiacovo/)
+[![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/emmecola.bsky.app)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.uno/@emmecola)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://mygenomix.wordpress.com)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://mygenomix.medium.com/)
