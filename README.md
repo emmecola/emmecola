@@ -24,9 +24,11 @@ In my projects I have used the following programming languages and tools:
 
 You can find me here:
 
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff&style=flat)](https://codeberg.org/emmecola)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/emmecola)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=flat)](https://orcid.org/0000-0003-1320-0506)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/colaiacovo/)
 [![BlueSky](https://img.shields.io/badge/Bluesky-1185FE?logo=bluesky&logoColor=fff&style=flat)](https://bsky.app/profile/emmecola.github.io)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff&style=flat)](https://mastodon.uno/@emmecola)
-
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)](https://mygenomix.wordpress.com)
 [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://mygenomix.medium.com/)
